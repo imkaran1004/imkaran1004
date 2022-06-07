@@ -30,5 +30,6 @@
 <a href="https://www.codechef.com/users/imkaran_1004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imkaran_1004" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gondaliyakaran71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gondaliyakaran71" height="30" width="40" /></a>
 <a href="https://leetcode.com/imkaran_1004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imkaran_1004" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/gondaliyakaran773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gondaliyakaran773" height="30" width="40" /></a>
 </p>
 </p>
