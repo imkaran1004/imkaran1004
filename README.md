@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan GOndaliya</h1>
 <h3 align="center">A student from Nirma University, Ahmedabad, Gujrat, india</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaygajera17&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jaygajera17" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imkaran1004&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="imkaran1004" /> </p>
 
 - 🌱 I’m currently learning **Data Structure And Algorithm**
 
