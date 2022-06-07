@@ -32,6 +32,3 @@
 <a href="https://leetcode.com/imkaran_1004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imkaran_1004" height="30" width="40" /></a>
 </p>
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/imkaran1004"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imkaran1004" /></a></p><br><br>
