@@ -24,14 +24,14 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://https://twitter.com/imkaran_1004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaygaje50366755" height="30" width="40" /></a>
-<a href="https://https://www.linkedin.com/in/karan-gondaliya-992b59223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-gajera-a6496b204" height="30" width="40" /></a>
-<a href="https://https://www.instagram.com/imkaran_1004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay-gajera_17" height="30" width="40" /></a>
-<a href="https://https://www.codechef.com/users/imkaran_1004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jay_gajera" height="30" width="40" /></a>
-<a href="https://https://www.hackerrank.com/gondaliyakaran71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jay gajera" height="30" width="40" /></a>
-<a href="https://https://leetcode.com/imkaran_1004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jay gajera" height="30" width="40" /></a>
+<a href="https://twitter.com/imkaran_1004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imkaran_1004" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karan-gondaliya-992b59223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karan Gondaliya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imkaran_1004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imkaran_1004" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/imkaran_1004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imkaran_1004" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gondaliyakaran71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gondaliyakaran71" height="30" width="40" /></a>
+<a href="https://leetcode.com/imkaran_1004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imkaran_1004" height="30" width="40" /></a>
 </p>
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gajerajay9I"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gajerajay9" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/imkaran1004"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imkaran1004" /></a></p><br><br>
