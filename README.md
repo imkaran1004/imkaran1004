@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karan GOndaliya</h1>
+<h1 align="center">Hi 👋, I'm Karan Gondaliya</h1>
 <h3 align="center">A student from Nirma University, Ahmedabad, Gujrat, india</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imkaran1004&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="imkaran1004" /> </p>
 
